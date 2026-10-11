@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/celery/vine/commit/ef33151cbb2787ad9a1ab64fb93c8fe2e54b0a09",
       "git:hexsha": "ef33151cbb2787ad9a1ab64fb93c8fe2e54b0a09",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T06:03:48.782810+00:00"
     },
     {
       "@id": "https://repolex.ai/r/celery/vine/commit/197a9175dca3d0946319c71652b4b17e7ccb3d88",
