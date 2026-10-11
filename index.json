@@ -1,0 +1,11 @@
+{
+  "org": "celery",
+  "repo": "vine",
+  "versions": [
+    {
+      "commit": "ef33151cbb2787ad9a1ab64fb93c8fe2e54b0a09",
+      "tag": "",
+      "parsed_at": "2026-10-11T06:03:48.783351+00:00"
+    }
+  ]
+}
